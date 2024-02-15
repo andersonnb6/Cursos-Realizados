@@ -7,4 +7,4 @@
     $nome = "Sabrina <br>";
     echo $nome;
     echo $NOME; // erro por estar maiusculo
-?> # teste 2
+?>
